@@ -1,6 +1,6 @@
 # About Me:
 Just Tech<br>
-I’ Heat My Self <br>
+I’ Haet My Self <br>
 
 
 
