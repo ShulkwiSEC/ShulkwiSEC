@@ -1,6 +1,6 @@
 # About Me:
 Just Tech<br>
-I’ Haet My Self <br>
+I’ f"H{ea}[::-1]t" My Self <br>
 
 
 
