@@ -1,3 +1,1 @@
-# About Me:
-Just Tech<br>
-[See More](https://shulkwisec.github.io/)
+[official website](https://shulkwisec.github.io/)
