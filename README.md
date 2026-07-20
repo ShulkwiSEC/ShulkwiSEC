@@ -18,4 +18,4 @@ Hello there 🏌️
   `CLI` `Automation` `BugBounty`
 * **[Use Claude Web as Claude Code](https://shulkwisec.github.io/post/claude-web-into-a-local-agent-claude-code/)** - Transforming the Claude web interface into a local git-patch agent.
   `Claude` `AI` `Agents` `Git`
-  * **[Claude code internals knowledge](https://github.com/ShulkwiSEC/claude-code-internal-architecture)** - Claude code internals knowledge. From now on, Claude-Code knows itself as it never knows, and inspires users with of its own features and efficiency for your harness project
+* **[Claude code internals knowledge](https://github.com/ShulkwiSEC/claude-code-internal-architecture)** - Claude code internals knowledge. From now on, Claude-Code knows itself as it never knows, and inspires users with of its own features and efficiency for your harness project
