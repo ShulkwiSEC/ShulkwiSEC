@@ -12,6 +12,7 @@ Hello there 🏌️
 * **[Writing Fingerprints](https://shulkwisec.github.io/post/how-shulkwisec-build-an-engine-to-detect-ai-authorship/)** - Linguistic glue and Rank-Sync Correlation to detect AI authorship.
   `Forensics` `#Science` `Linguistics`
 * **[kashictf-self-destruct 2025](https://shulkwisec.github.io/post/kashictf-self-destruct/)** - Reverse engineering and patching corrupted memory in a VDI environment.
+  `Claude` `Claude loop` `Harness` `AI Engineering`
   `CTF` `Memory` `VDI` `Reverse-Engineering`
 * **[Bug Bounty CLI](https://shulkwisec.github.io/post/bugbountysa-cli-tool-post/)** - Automation tool for streamlined command-line bug bounty workflows.
   `CLI` `Automation` `BugBounty`
